@@ -23,7 +23,7 @@ This project utilizes Convolutional Neural Networks (CNN) implemented with Tenso
 
 3. **Run the Streamlit App:**
     ```bash
-    streamlit run app.py
+    streamlit run image_classifier.py
     ```
 
 4. **Upload Your Image:**
@@ -32,9 +32,9 @@ This project utilizes Convolutional Neural Networks (CNN) implemented with Tenso
 
 ## Project Structure
 
-- **`/models`:** Contains the trained CNN model.
-- **`/app`:** Holds the Streamlit application code.
-- **`/data`:** Dataset used for training and testing the model.
+- **`/data`:** Contains downloaded images for training the model
+- **`/img_test`:** Some images used for testing in the app
+
 
 Feel free to explore the code and contribute to the project!
 

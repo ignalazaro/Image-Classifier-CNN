@@ -2,7 +2,8 @@
 
 ## Overview
 
-!(https://github.com/ignalazaro/Image-Classifier-CNN/blob/main/img_test/happy_test/descarga%20(1).jpeg) | !([link_to_sad_face_image](https://github.com/ignalazaro/Image-Classifier-CNN/blob/main/img_test/sad_test/descarga%20(1).jpeg))
+!![Happy Face]([link_to_happy_face_image](https://github.com/ignalazaro/Image-Classifier-CNN/blob/main/img_test/sad_test/descarga%20(1).jpeg)) | ![Sad Face](link_to_sad_face_image)
+--- | ---
 --- | ---
 --- | ---
 *Happy Face* | *Sad Face*

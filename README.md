@@ -37,9 +37,3 @@ This project utilizes Convolutional Neural Networks (CNN) implemented with Tenso
 
 
 Feel free to explore the code and contribute to the project!
-
-## Acknowledgments
-
-- Special thanks to [Your Name] for contributing to the project.
-
-
